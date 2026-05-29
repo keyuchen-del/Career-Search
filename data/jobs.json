@@ -1,0 +1,2032 @@
+[
+  {
+    "id": "j1ggmmad",
+    "origin": "seed",
+    "company": "滴滴",
+    "companyTier": 1,
+    "title": "日常实习 · 研发/算法",
+    "category": "互联网",
+    "jobType": "日常实习",
+    "location": [
+      "北京"
+    ],
+    "region": "大陆",
+    "description": "网约车、地图、国际化业务长期实习，滚动招聘。",
+    "requirements": "在校生",
+    "salary": "200-400/天",
+    "deadline": null,
+    "postedAt": null,
+    "applyUrl": "https://campus.didiglobal.com/",
+    "detailUrl": null,
+    "tags": [
+      "大厂",
+      "长期实习"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.5,
+      "freshness": 0.99994984375,
+      "tier": 1,
+      "base": 0.799984953125
+    }
+  },
+  {
+    "id": "j1e1t84u",
+    "origin": "greenhouse",
+    "company": "Stripe",
+    "companyTier": 1,
+    "title": "Operations Associate, Apprenticeship",
+    "category": "外企",
+    "jobType": "秋招",
+    "location": [
+      "Bengaluru"
+    ],
+    "region": "海外",
+    "description": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to th…",
+    "requirements": null,
+    "salary": null,
+    "deadline": null,
+    "postedAt": "2026-05-20T16:58:18-04:00",
+    "applyUrl": "https://stripe.com/jobs/search?gh_jid=7236933",
+    "detailUrl": "https://stripe.com/jobs/search?gh_jid=7236933",
+    "tags": [
+      "4141 SDC - Central Operations Enablement"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.5,
+      "freshness": 0.99994984375,
+      "tier": 1,
+      "base": 0.799984953125
+    }
+  },
+  {
+    "id": "jo7gfqt",
+    "origin": "greenhouse",
+    "company": "Stripe",
+    "companyTier": 1,
+    "title": "Operations Associate, New Grad (Mexico)",
+    "category": "外企",
+    "jobType": "秋招",
+    "location": [
+      "Mexico City",
+      "Mexico"
+    ],
+    "region": "海外",
+    "description": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to th…",
+    "requirements": null,
+    "salary": null,
+    "deadline": null,
+    "postedAt": "2026-05-20T16:58:18-04:00",
+    "applyUrl": "https://stripe.com/jobs/search?gh_jid=7544547",
+    "detailUrl": "https://stripe.com/jobs/search?gh_jid=7544547",
+    "tags": [
+      "4378 SDC - Fraud Operations"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.5,
+      "freshness": 0.99994984375,
+      "tier": 1,
+      "base": 0.799984953125
+    }
+  },
+  {
+    "id": "j3det01",
+    "origin": "greenhouse",
+    "company": "Stripe",
+    "companyTier": 1,
+    "title": "PhD Data Scientist, Intern",
+    "category": "外企",
+    "jobType": "日常实习",
+    "location": [
+      "Toronto",
+      "Ontario",
+      "Canada"
+    ],
+    "region": "海外",
+    "description": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to th…",
+    "requirements": null,
+    "salary": null,
+    "deadline": null,
+    "postedAt": "2026-05-20T16:58:18-04:00",
+    "applyUrl": "https://stripe.com/jobs/search?gh_jid=7285974",
+    "detailUrl": "https://stripe.com/jobs/search?gh_jid=7285974",
+    "tags": [
+      "5112 General University"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.5,
+      "freshness": 0.99994984375,
+      "tier": 1,
+      "base": 0.799984953125
+    }
+  },
+  {
+    "id": "j164frkg",
+    "origin": "greenhouse",
+    "company": "Stripe",
+    "companyTier": 1,
+    "title": "PhD Data Scientist, Intern",
+    "category": "外企",
+    "jobType": "日常实习",
+    "location": [
+      "San Francisco",
+      "New York City",
+      "Seattle"
+    ],
+    "region": "海外",
+    "description": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to th…",
+    "requirements": null,
+    "salary": null,
+    "deadline": null,
+    "postedAt": "2026-05-20T16:58:18-04:00",
+    "applyUrl": "https://stripe.com/jobs/search?gh_jid=7874965",
+    "detailUrl": "https://stripe.com/jobs/search?gh_jid=7874965",
+    "tags": [
+      "5112 General University"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.5,
+      "freshness": 0.99994984375,
+      "tier": 1,
+      "base": 0.799984953125
+    }
+  },
+  {
+    "id": "jyol2x8",
+    "origin": "greenhouse",
+    "company": "Stripe",
+    "companyTier": 1,
+    "title": "Software Engineering, New Grad",
+    "category": "外企",
+    "jobType": "秋招",
+    "location": [
+      "Singapore"
+    ],
+    "region": "海外",
+    "description": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to th…",
+    "requirements": null,
+    "salary": null,
+    "deadline": null,
+    "postedAt": "2026-05-20T16:58:18-04:00",
+    "applyUrl": "https://stripe.com/jobs/search?gh_jid=7176977",
+    "detailUrl": "https://stripe.com/jobs/search?gh_jid=7176977",
+    "tags": [
+      "5112 General University"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.5,
+      "freshness": 0.99994984375,
+      "tier": 1,
+      "base": 0.799984953125
+    }
+  },
+  {
+    "id": "j17wjbxo",
+    "origin": "greenhouse",
+    "company": "Stripe",
+    "companyTier": 1,
+    "title": "Software Engineer, Intern",
+    "category": "外企",
+    "jobType": "日常实习",
+    "location": [
+      "Sydney",
+      "Australia"
+    ],
+    "region": "海外",
+    "description": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to th…",
+    "requirements": null,
+    "salary": null,
+    "deadline": null,
+    "postedAt": "2026-05-20T16:58:18-04:00",
+    "applyUrl": "https://stripe.com/jobs/search?gh_jid=7532256",
+    "detailUrl": "https://stripe.com/jobs/search?gh_jid=7532256",
+    "tags": [
+      "5112 General University"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.5,
+      "freshness": 0.99994984375,
+      "tier": 1,
+      "base": 0.799984953125
+    }
+  },
+  {
+    "id": "j5aiglr",
+    "origin": "greenhouse",
+    "company": "Stripe",
+    "companyTier": 1,
+    "title": "Tech Operations Associate, New Grad (Mexico)",
+    "category": "外企",
+    "jobType": "秋招",
+    "location": [
+      "Mexico City",
+      "Mexico"
+    ],
+    "region": "海外",
+    "description": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to th…",
+    "requirements": null,
+    "salary": null,
+    "deadline": null,
+    "postedAt": "2026-05-20T16:58:18-04:00",
+    "applyUrl": "https://stripe.com/jobs/search?gh_jid=7718947",
+    "detailUrl": "https://stripe.com/jobs/search?gh_jid=7718947",
+    "tags": [
+      "4138 SDC - Tech Ops"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.5,
+      "freshness": 0.99994984375,
+      "tier": 1,
+      "base": 0.799984953125
+    }
+  },
+  {
+    "id": "jjuiva",
+    "origin": "greenhouse",
+    "company": "Databricks",
+    "companyTier": 1,
+    "title": "PhD GenAI Research Scientist Intern",
+    "category": "外企",
+    "jobType": "日常实习",
+    "location": [
+      "San Francisco",
+      "California"
+    ],
+    "region": "海外",
+    "description": "Company Description: At Databricks, we are obsessed with enabling data teams to solve the world’s toughest problems, from security threat detection to…",
+    "requirements": null,
+    "salary": null,
+    "deadline": null,
+    "postedAt": "2026-04-09T16:51:09-04:00",
+    "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002",
+    "detailUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002",
+    "tags": [
+      "University Recruiting"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.5,
+      "freshness": 0.99994984375,
+      "tier": 1,
+      "base": 0.799984953125
+    }
+  },
+  {
+    "id": "jzmxa8l",
+    "origin": "greenhouse",
+    "company": "Databricks",
+    "companyTier": 1,
+    "title": "Software Engineering New Grad (2026)",
+    "category": "外企",
+    "jobType": "秋招",
+    "location": [
+      "Belgrade",
+      "Serbia"
+    ],
+    "region": "海外",
+    "description": "P-1341 At Databricks, we are passionate about helping data teams solve the world's toughest problems — from making the next mode of transportation a r…",
+    "requirements": null,
+    "salary": null,
+    "deadline": null,
+    "postedAt": "2026-04-09T16:51:10-04:00",
+    "applyUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=7640776002",
+    "detailUrl": "https://databricks.com/company/careers/open-positions/job?gh_jid=7640776002",
+    "tags": [
+      "University Recruiting"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.5,
+      "freshness": 0.99994984375,
+      "tier": 1,
+      "base": 0.799984953125
+    }
+  },
+  {
+    "id": "jtzr7ci",
+    "origin": "greenhouse",
+    "company": "Pinterest",
+    "companyTier": 1,
+    "title": "Master's Fall Machine Learning Internship (ATG - Visual Search)",
+    "category": "外企",
+    "jobType": "日常实习",
+    "location": [
+      "San Francisco",
+      "CA",
+      "US"
+    ],
+    "region": "海外",
+    "description": "About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories…",
+    "requirements": null,
+    "salary": null,
+    "deadline": null,
+    "postedAt": "2026-05-14T12:34:53-04:00",
+    "applyUrl": "https://www.pinterestcareers.com/jobs/?gh_jid=7253017",
+    "detailUrl": "https://www.pinterestcareers.com/jobs/?gh_jid=7253017",
+    "tags": [
+      "University"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.5,
+      "freshness": 0.99994984375,
+      "tier": 1,
+      "base": 0.799984953125
+    }
+  },
+  {
+    "id": "j43788f",
+    "origin": "greenhouse",
+    "company": "Pinterest",
+    "companyTier": 1,
+    "title": "PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)",
+    "category": "外企",
+    "jobType": "日常实习",
+    "location": [
+      "San Francisco",
+      "CA",
+      "US"
+    ],
+    "region": "海外",
+    "description": "About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories…",
+    "requirements": null,
+    "salary": null,
+    "deadline": null,
+    "postedAt": "2026-05-14T12:34:53-04:00",
+    "applyUrl": "https://www.pinterestcareers.com/jobs/?gh_jid=7255640",
+    "detailUrl": "https://www.pinterestcareers.com/jobs/?gh_jid=7255640",
+    "tags": [
+      "University Engineering"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.5,
+      "freshness": 0.99994984375,
+      "tier": 1,
+      "base": 0.799984953125
+    }
+  },
+  {
+    "id": "jevk1wq",
+    "origin": "seed",
+    "company": "携程",
+    "companyTier": 2,
+    "title": "日常实习 · 多岗位",
+    "category": "互联网",
+    "jobType": "日常实习",
+    "location": [
+      "上海"
+    ],
+    "region": "大陆",
+    "description": "旅游平台技术、产品、数据分析长期实习。",
+    "requirements": "在校生",
+    "salary": "150-300/天",
+    "deadline": null,
+    "postedAt": null,
+    "applyUrl": "https://careers.ctrip.com/",
+    "detailUrl": null,
+    "tags": [
+      "长期实习"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.5,
+      "freshness": 0.99994984375,
+      "tier": 0.7,
+      "base": 0.709984953125
+    }
+  },
+  {
+    "id": "j10q3g6o",
+    "origin": "greenhouse",
+    "company": "Samsara",
+    "companyTier": 2,
+    "title": "Digital Innovation Co-Op – Supply Chain",
+    "category": "外企",
+    "jobType": "秋招",
+    "location": [
+      "Remote - US"
+    ],
+    "region": "海外",
+    "description": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physic…",
+    "requirements": null,
+    "salary": null,
+    "deadline": null,
+    "postedAt": "2026-05-26T18:49:37-04:00",
+    "applyUrl": "https://www.samsara.com/company/careers/roles/7839203?gh_jid=7839203",
+    "detailUrl": "https://www.samsara.com/company/careers/roles/7839203?gh_jid=7839203",
+    "tags": [
+      "Operations Management"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.5,
+      "freshness": 0.99994984375,
+      "tier": 0.7,
+      "base": 0.709984953125
+    }
+  },
+  {
+    "id": "j6t3xln",
+    "origin": "seed",
+    "company": "字节跳动",
+    "companyTier": 1,
+    "title": "2027 暑期实习 · 技术/产品/运营",
+    "category": "互联网",
+    "jobType": "暑期实习",
+    "location": [
+      "北京",
+      "上海",
+      "杭州",
+      "深圳"
+    ],
+    "region": "大陆",
+    "description": "覆盖抖音、TikTok、飞书、火山引擎等核心业务，表现优异可拿转正 offer。",
+    "requirements": "本科及以上",
+    "salary": "300-600/天",
+    "deadline": "2026-10-31",
+    "postedAt": null,
+    "applyUrl": "https://jobs.bytedance.com/campus",
+    "detailUrl": null,
+    "tags": [
+      "大厂",
+      "转正机会"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 1,
+      "base": 0.6199849531249999
+    }
+  },
+  {
+    "id": "j7g3uxj",
+    "origin": "seed",
+    "company": "腾讯",
+    "companyTier": 1,
+    "title": "2026 秋季校园招聘",
+    "category": "互联网",
+    "jobType": "秋招",
+    "location": [
+      "深圳",
+      "北京",
+      "上海"
+    ],
+    "region": "大陆",
+    "description": "技术/产品/设计/市场多通道，微信、游戏、云与智慧产业等事业群。",
+    "requirements": "应届毕业生",
+    "salary": null,
+    "deadline": "2026-09-20",
+    "postedAt": null,
+    "applyUrl": "https://join.qq.com/",
+    "detailUrl": null,
+    "tags": [
+      "大厂",
+      "校招"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 1,
+      "base": 0.6199849531249999
+    }
+  },
+  {
+    "id": "jq3pfcz",
+    "origin": "seed",
+    "company": "阿里巴巴",
+    "companyTier": 1,
+    "title": "2026 秋招 · 技术线",
+    "category": "互联网",
+    "jobType": "秋招",
+    "location": [
+      "杭州",
+      "北京"
+    ],
+    "region": "大陆",
+    "description": "淘天集团 / 阿里云 / 国际数字商业，研发、算法、数据多岗位。",
+    "requirements": "应届毕业生",
+    "salary": null,
+    "deadline": "2026-09-30",
+    "postedAt": null,
+    "applyUrl": "https://talent.alibaba.com/",
+    "detailUrl": null,
+    "tags": [
+      "大厂",
+      "校招"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 1,
+      "base": 0.6199849531249999
+    }
+  },
+  {
+    "id": "j1y1ebo3",
+    "origin": "seed",
+    "company": "美团",
+    "companyTier": 1,
+    "title": "2026 秋季校园招聘",
+    "category": "互联网",
+    "jobType": "秋招",
+    "location": [
+      "北京",
+      "上海"
+    ],
+    "region": "大陆",
+    "description": "到店、到家、基础研发平台等方向，技术与产品岗位。",
+    "requirements": "应届毕业生",
+    "salary": null,
+    "deadline": "2026-09-15",
+    "postedAt": null,
+    "applyUrl": "https://campus.meituan.com/",
+    "detailUrl": null,
+    "tags": [
+      "大厂",
+      "校招"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 1,
+      "base": 0.6199849531249999
+    }
+  },
+  {
+    "id": "j1suhx21",
+    "origin": "seed",
+    "company": "百度",
+    "companyTier": 1,
+    "title": "2027 AI 暑期实习",
+    "category": "互联网",
+    "jobType": "暑期实习",
+    "location": [
+      "北京"
+    ],
+    "region": "大陆",
+    "description": "文心大模型、Apollo 自动驾驶、智能云方向算法与工程实习。",
+    "requirements": "本科及以上",
+    "salary": "300-500/天",
+    "deadline": "2026-11-30",
+    "postedAt": null,
+    "applyUrl": "https://talent.baidu.com/",
+    "detailUrl": null,
+    "tags": [
+      "大厂",
+      "AI"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 1,
+      "base": 0.6199849531249999
+    }
+  },
+  {
+    "id": "j1ua5enz",
+    "origin": "seed",
+    "company": "快手",
+    "companyTier": 1,
+    "title": "2026 秋季校园招聘",
+    "category": "互联网",
+    "jobType": "秋招",
+    "location": [
+      "北京"
+    ],
+    "region": "大陆",
+    "description": "算法、工程、产品、商业化多岗位。",
+    "requirements": "应届毕业生",
+    "salary": null,
+    "deadline": "2026-09-10",
+    "postedAt": null,
+    "applyUrl": "https://campus.kuaishou.cn/",
+    "detailUrl": null,
+    "tags": [
+      "大厂",
+      "校招"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 1,
+      "base": 0.6199849531249999
+    }
+  },
+  {
+    "id": "j2ovo0o",
+    "origin": "seed",
+    "company": "京东",
+    "companyTier": 1,
+    "title": "2026 秋招",
+    "category": "互联网",
+    "jobType": "秋招",
+    "location": [
+      "北京",
+      "宿迁"
+    ],
+    "region": "大陆",
+    "description": "零售、物流、科技、健康多业务线技术与管培岗位。",
+    "requirements": "应届毕业生",
+    "salary": null,
+    "deadline": "2026-09-25",
+    "postedAt": null,
+    "applyUrl": "https://campus.jd.com/",
+    "detailUrl": null,
+    "tags": [
+      "大厂",
+      "校招"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 1,
+      "base": 0.6199849531249999
+    }
+  },
+  {
+    "id": "jxm2dea",
+    "origin": "seed",
+    "company": "拼多多",
+    "companyTier": 1,
+    "title": "2026 秋招",
+    "category": "互联网",
+    "jobType": "秋招",
+    "location": [
+      "上海"
+    ],
+    "region": "大陆",
+    "description": "多多电商、Temu 国际化方向研发与算法岗位。",
+    "requirements": "应届毕业生",
+    "salary": null,
+    "deadline": "2026-08-31",
+    "postedAt": null,
+    "applyUrl": "https://careers.pinduoduo.com/",
+    "detailUrl": null,
+    "tags": [
+      "大厂",
+      "校招"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 1,
+      "base": 0.6199849531249999
+    }
+  },
+  {
+    "id": "j1eaa2bm",
+    "origin": "seed",
+    "company": "网易",
+    "companyTier": 1,
+    "title": "2026 秋招",
+    "category": "互联网",
+    "jobType": "秋招",
+    "location": [
+      "杭州",
+      "广州"
+    ],
+    "region": "大陆",
+    "description": "游戏、有道、云音乐、严选等事业部。",
+    "requirements": "应届毕业生",
+    "salary": null,
+    "deadline": "2026-09-18",
+    "postedAt": null,
+    "applyUrl": "https://campus.163.com/",
+    "detailUrl": null,
+    "tags": [
+      "大厂",
+      "校招"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 1,
+      "base": 0.6199849531249999
+    }
+  },
+  {
+    "id": "jtjzvj8",
+    "origin": "seed",
+    "company": "小红书",
+    "companyTier": 1,
+    "title": "2027 暑期实习",
+    "category": "互联网",
+    "jobType": "暑期实习",
+    "location": [
+      "上海",
+      "北京"
+    ],
+    "region": "大陆",
+    "description": "社区、电商、算法、商业化多方向。",
+    "requirements": "本科及以上",
+    "salary": "300-500/天",
+    "deadline": "2026-11-15",
+    "postedAt": null,
+    "applyUrl": "https://job.xiaohongshu.com/",
+    "detailUrl": null,
+    "tags": [
+      "大厂",
+      "转正机会"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 1,
+      "base": 0.6199849531249999
+    }
+  },
+  {
+    "id": "j39xog8",
+    "origin": "seed",
+    "company": "蚂蚁集团",
+    "companyTier": 1,
+    "title": "2026 秋招 · 技术",
+    "category": "互联网",
+    "jobType": "秋招",
+    "location": [
+      "杭州",
+      "上海"
+    ],
+    "region": "大陆",
+    "description": "支付宝、数字金融、隐私计算与大模型方向。",
+    "requirements": "应届毕业生",
+    "salary": null,
+    "deadline": "2026-09-22",
+    "postedAt": null,
+    "applyUrl": "https://talent.antgroup.com/",
+    "detailUrl": null,
+    "tags": [
+      "大厂",
+      "校招"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 1,
+      "base": 0.6199849531249999
+    }
+  },
+  {
+    "id": "jjmwqhv",
+    "origin": "seed",
+    "company": "小米",
+    "companyTier": 1,
+    "title": "2026 秋季校园招聘",
+    "category": "互联网",
+    "jobType": "秋招",
+    "location": [
+      "北京",
+      "武汉",
+      "南京"
+    ],
+    "region": "大陆",
+    "description": "手机、汽车、IoT、互联网多业务线。",
+    "requirements": "应届毕业生",
+    "salary": null,
+    "deadline": "2026-09-28",
+    "postedAt": null,
+    "applyUrl": "https://hr.xiaomi.com/",
+    "detailUrl": null,
+    "tags": [
+      "大厂",
+      "校招"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 1,
+      "base": 0.6199849531249999
+    }
+  },
+  {
+    "id": "jrm9lt",
+    "origin": "seed",
+    "company": "中金公司",
+    "companyTier": 1,
+    "title": "2027 暑期实习",
+    "category": "金融",
+    "jobType": "暑期实习",
+    "location": [
+      "北京",
+      "上海"
+    ],
+    "region": "大陆",
+    "description": "投资银行部、研究部、固定收益部等暑期实习项目。",
+    "requirements": "硕士及以上",
+    "salary": "200-300/天",
+    "deadline": "2026-12-15",
+    "postedAt": null,
+    "applyUrl": "https://www.cicc.com/",
+    "detailUrl": null,
+    "tags": [
+      "头部券商",
+      "Top投行"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 1,
+      "base": 0.6199849531249999
+    }
+  },
+  {
+    "id": "j14a0wy2",
+    "origin": "seed",
+    "company": "中信证券",
+    "companyTier": 1,
+    "title": "2026 秋季校园招聘",
+    "category": "金融",
+    "jobType": "秋招",
+    "location": [
+      "北京",
+      "深圳"
+    ],
+    "region": "大陆",
+    "description": "国内龙头券商，投行、研究、资管多条线。",
+    "requirements": "硕士及以上",
+    "salary": null,
+    "deadline": "2026-09-30",
+    "postedAt": null,
+    "applyUrl": "https://www.citics.com/",
+    "detailUrl": null,
+    "tags": [
+      "头部券商",
+      "校招"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 1,
+      "base": 0.6199849531249999
+    }
+  },
+  {
+    "id": "j1k571pz",
+    "origin": "seed",
+    "company": "高盛",
+    "companyTier": 1,
+    "title": "2027 Summer Analyst",
+    "category": "金融",
+    "jobType": "暑期实习",
+    "location": [
+      "北京",
+      "上海"
+    ],
+    "region": "大陆",
+    "description": "全球顶级投行暑期项目，表现优异可获全职 offer。",
+    "requirements": "在校大学生",
+    "salary": "10000+/月",
+    "deadline": "2026-10-15",
+    "postedAt": null,
+    "applyUrl": "https://www.goldmansachs.com/careers/students-and-graduates/",
+    "detailUrl": null,
+    "tags": [
+      "外资",
+      "Top投行"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 1,
+      "base": 0.6199849531249999
+    }
+  },
+  {
+    "id": "jfov54v",
+    "origin": "seed",
+    "company": "摩根大通",
+    "companyTier": 1,
+    "title": "2027 Summer Analyst",
+    "category": "金融",
+    "jobType": "暑期实习",
+    "location": [
+      "上海"
+    ],
+    "region": "大陆",
+    "description": "J.P. Morgan 全球暑期项目，投行/市场/资管方向。",
+    "requirements": "本科及以上",
+    "salary": "10000+/月",
+    "deadline": "2026-10-01",
+    "postedAt": null,
+    "applyUrl": "https://careers.jpmorgan.com/global/en/students",
+    "detailUrl": null,
+    "tags": [
+      "外资",
+      "Top投行"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 1,
+      "base": 0.6199849531249999
+    }
+  },
+  {
+    "id": "j1f1hgn8",
+    "origin": "seed",
+    "company": "摩根士丹利",
+    "companyTier": 1,
+    "title": "2027 暑期实习",
+    "category": "金融",
+    "jobType": "暑期实习",
+    "location": [
+      "上海"
+    ],
+    "region": "大陆",
+    "description": "Morgan Stanley 暑期分析师项目。",
+    "requirements": "本科及以上",
+    "salary": null,
+    "deadline": "2026-10-20",
+    "postedAt": null,
+    "applyUrl": "https://www.morganstanley.com/people-opportunities/students-graduates",
+    "detailUrl": null,
+    "tags": [
+      "外资",
+      "Top投行"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 1,
+      "base": 0.6199849531249999
+    }
+  },
+  {
+    "id": "j119ga08",
+    "origin": "seed",
+    "company": "微软",
+    "companyTier": 1,
+    "title": "2027 暑期实习",
+    "category": "外企",
+    "jobType": "暑期实习",
+    "location": [
+      "北京",
+      "上海",
+      "苏州"
+    ],
+    "region": "大陆",
+    "description": "Microsoft 研发实习，Azure、Office、AI 等方向。",
+    "requirements": "本科及以上",
+    "salary": null,
+    "deadline": "2026-11-30",
+    "postedAt": null,
+    "applyUrl": "https://careers.microsoft.com/v2/global/en/students.html",
+    "detailUrl": null,
+    "tags": [
+      "外企",
+      "科技"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 1,
+      "base": 0.6199849531249999
+    }
+  },
+  {
+    "id": "j2bfzyr",
+    "origin": "seed",
+    "company": "谷歌",
+    "companyTier": 1,
+    "title": "2027 Internship (APAC)",
+    "category": "外企",
+    "jobType": "暑期实习",
+    "location": [
+      "新加坡",
+      "海外"
+    ],
+    "region": "海外",
+    "description": "Google 软件工程暑期实习（亚太/海外）。",
+    "requirements": "本科及以上",
+    "salary": null,
+    "deadline": "2026-10-31",
+    "postedAt": null,
+    "applyUrl": "https://careers.google.com/students/",
+    "detailUrl": null,
+    "tags": [
+      "外企",
+      "海外"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 1,
+      "base": 0.6199849531249999
+    }
+  },
+  {
+    "id": "j8olxbq",
+    "origin": "seed",
+    "company": "亚马逊",
+    "companyTier": 1,
+    "title": "2026 SDE Intern",
+    "category": "外企",
+    "jobType": "暑期实习",
+    "location": [
+      "新加坡",
+      "海外"
+    ],
+    "region": "海外",
+    "description": "Amazon 软件开发实习，全球团队。",
+    "requirements": "本科及以上",
+    "salary": null,
+    "deadline": "2026-09-30",
+    "postedAt": null,
+    "applyUrl": "https://www.amazon.jobs/content/en/career-programs/university",
+    "detailUrl": null,
+    "tags": [
+      "外企",
+      "海外"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 1,
+      "base": 0.6199849531249999
+    }
+  },
+  {
+    "id": "j1ungrtr",
+    "origin": "seed",
+    "company": "英伟达",
+    "companyTier": 1,
+    "title": "2027 暑期实习",
+    "category": "外企",
+    "jobType": "暑期实习",
+    "location": [
+      "上海",
+      "北京",
+      "海外"
+    ],
+    "region": "海外",
+    "description": "NVIDIA 深度学习、芯片、系统软件方向。",
+    "requirements": "本科及以上",
+    "salary": null,
+    "deadline": "2026-11-15",
+    "postedAt": null,
+    "applyUrl": "https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/",
+    "detailUrl": null,
+    "tags": [
+      "外企",
+      "AI",
+      "芯片"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 1,
+      "base": 0.6199849531249999
+    }
+  },
+  {
+    "id": "j1vpkkz6",
+    "origin": "seed",
+    "company": "Meta",
+    "companyTier": 1,
+    "title": "2027 University Internship",
+    "category": "外企",
+    "jobType": "暑期实习",
+    "location": [
+      "海外"
+    ],
+    "region": "海外",
+    "description": "Meta 软件工程与研究实习（海外）。",
+    "requirements": "本科及以上",
+    "salary": null,
+    "deadline": "2026-10-15",
+    "postedAt": null,
+    "applyUrl": "https://www.metacareers.com/careerprograms/students/",
+    "detailUrl": null,
+    "tags": [
+      "外企",
+      "海外"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 1,
+      "base": 0.6199849531249999
+    }
+  },
+  {
+    "id": "j5gkr10",
+    "origin": "seed",
+    "company": "苹果",
+    "companyTier": 1,
+    "title": "2026 校园招聘",
+    "category": "外企",
+    "jobType": "校招",
+    "location": [
+      "上海",
+      "北京",
+      "深圳"
+    ],
+    "region": "大陆",
+    "description": "Apple 硬件、软件、供应链多方向。",
+    "requirements": "应届毕业生",
+    "salary": null,
+    "deadline": "2026-09-30",
+    "postedAt": null,
+    "applyUrl": "https://www.apple.com.cn/careers/cn/",
+    "detailUrl": null,
+    "tags": [
+      "外企",
+      "科技"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 1,
+      "base": 0.6199849531249999
+    }
+  },
+  {
+    "id": "j1cxi92m",
+    "origin": "seed",
+    "company": "宝洁",
+    "companyTier": 1,
+    "title": "2026 暑期实习",
+    "category": "快消",
+    "jobType": "暑期实习",
+    "location": [
+      "广州",
+      "上海",
+      "北京"
+    ],
+    "region": "大陆",
+    "description": "P&G CBD、品牌、研发、供应链暑期实习。",
+    "requirements": "本科及以上",
+    "salary": "350-450/天",
+    "deadline": "2026-08-15",
+    "postedAt": null,
+    "applyUrl": "https://www.pgcareers.com/",
+    "detailUrl": null,
+    "tags": [
+      "外企",
+      "快消"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 1,
+      "base": 0.6199849531249999
+    }
+  },
+  {
+    "id": "j1ytiigq",
+    "origin": "seed",
+    "company": "联合利华",
+    "companyTier": 1,
+    "title": "2026 UFLP 暑期实习",
+    "category": "管培",
+    "jobType": "暑期实习",
+    "location": [
+      "上海"
+    ],
+    "region": "大陆",
+    "description": "Unilever 未来领袖计划暑期实习，转正进入管培。",
+    "requirements": "本科及以上",
+    "salary": "300-400/天",
+    "deadline": "2026-08-20",
+    "postedAt": null,
+    "applyUrl": "https://careers.unilever.com/",
+    "detailUrl": null,
+    "tags": [
+      "外企",
+      "管培"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 1,
+      "base": 0.6199849531249999
+    }
+  },
+  {
+    "id": "jgtsfle",
+    "origin": "seed",
+    "company": "华为",
+    "companyTier": 1,
+    "title": "2026 秋季校园招聘",
+    "category": "实体",
+    "jobType": "秋招",
+    "location": [
+      "深圳",
+      "东莞",
+      "北京",
+      "上海"
+    ],
+    "region": "大陆",
+    "description": "2012 实验室、海思、云计算、终端等研发岗位。",
+    "requirements": "应届毕业生",
+    "salary": null,
+    "deadline": "2026-09-30",
+    "postedAt": null,
+    "applyUrl": "https://career.huawei.com/",
+    "detailUrl": null,
+    "tags": [
+      "大厂",
+      "校招"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 1,
+      "base": 0.6199849531249999
+    }
+  },
+  {
+    "id": "j11zv6xd",
+    "origin": "seed",
+    "company": "大疆",
+    "companyTier": 1,
+    "title": "2027 暑期实习",
+    "category": "实体",
+    "jobType": "暑期实习",
+    "location": [
+      "深圳"
+    ],
+    "region": "大陆",
+    "description": "DJI 算法、嵌入式、机械、硬件研发实习。",
+    "requirements": "本科及以上",
+    "salary": "300-500/天",
+    "deadline": "2026-11-30",
+    "postedAt": null,
+    "applyUrl": "https://we.dji.com/",
+    "detailUrl": null,
+    "tags": [
+      "科技",
+      "硬件"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 1,
+      "base": 0.6199849531249999
+    }
+  },
+  {
+    "id": "j155936",
+    "origin": "seed",
+    "company": "比亚迪",
+    "companyTier": 1,
+    "title": "2026 秋季校园招聘",
+    "category": "实体",
+    "jobType": "秋招",
+    "location": [
+      "深圳",
+      "西安",
+      "长沙"
+    ],
+    "region": "大陆",
+    "description": "新能源汽车、电池、半导体研发与工程岗位。",
+    "requirements": "应届毕业生",
+    "salary": null,
+    "deadline": "2026-09-30",
+    "postedAt": null,
+    "applyUrl": "https://job.byd.com/",
+    "detailUrl": null,
+    "tags": [
+      "新能源",
+      "校招"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 1,
+      "base": 0.6199849531249999
+    }
+  },
+  {
+    "id": "js6qsti",
+    "origin": "seed",
+    "company": "宁德时代",
+    "companyTier": 1,
+    "title": "2026 秋招",
+    "category": "实体",
+    "jobType": "秋招",
+    "location": [
+      "宁德",
+      "上海"
+    ],
+    "region": "大陆",
+    "description": "CATL 电池研发、工艺、设备方向。",
+    "requirements": "应届毕业生",
+    "salary": null,
+    "deadline": "2026-09-25",
+    "postedAt": null,
+    "applyUrl": "https://campus.catl.com/",
+    "detailUrl": null,
+    "tags": [
+      "新能源",
+      "校招"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 1,
+      "base": 0.6199849531249999
+    }
+  },
+  {
+    "id": "j4tj8em",
+    "origin": "seed",
+    "company": "哔哩哔哩",
+    "companyTier": 2,
+    "title": "2026 秋招",
+    "category": "互联网",
+    "jobType": "秋招",
+    "location": [
+      "上海"
+    ],
+    "region": "大陆",
+    "description": "技术、产品、运营、内容多岗位。",
+    "requirements": "应届毕业生",
+    "salary": null,
+    "deadline": "2026-09-12",
+    "postedAt": null,
+    "applyUrl": "https://jobs.bilibili.com/campus",
+    "detailUrl": null,
+    "tags": [
+      "校招"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 0.7,
+      "base": 0.5299849531249999
+    }
+  },
+  {
+    "id": "j1uo8gvp",
+    "origin": "seed",
+    "company": "汇丰银行",
+    "companyTier": 2,
+    "title": "2026 环球银行暑期实习",
+    "category": "金融",
+    "jobType": "暑期实习",
+    "location": [
+      "上海",
+      "广州"
+    ],
+    "region": "大陆",
+    "description": "HSBC 商业银行、环球银行与市场方向。",
+    "requirements": "本科及以上",
+    "salary": null,
+    "deadline": "2026-09-30",
+    "postedAt": null,
+    "applyUrl": "https://www.hsbc.com/careers/students-and-graduates",
+    "detailUrl": null,
+    "tags": [
+      "外资"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 0.7,
+      "base": 0.5299849531249999
+    }
+  },
+  {
+    "id": "jgfpas9",
+    "origin": "seed",
+    "company": "安永",
+    "companyTier": 2,
+    "title": "2026 暑期实习",
+    "category": "金融",
+    "jobType": "暑期实习",
+    "location": [
+      "北京",
+      "上海",
+      "广州",
+      "深圳"
+    ],
+    "region": "大陆",
+    "description": "审计、税务、咨询暑期实习，有转正机会。",
+    "requirements": "本科及以上",
+    "salary": "100-200/天",
+    "deadline": "2026-08-31",
+    "postedAt": null,
+    "applyUrl": "https://www.ey.com/zh_cn/careers",
+    "detailUrl": null,
+    "tags": [
+      "四大"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 0.7,
+      "base": 0.5299849531249999
+    }
+  },
+  {
+    "id": "j127w1l",
+    "origin": "seed",
+    "company": "普华永道",
+    "companyTier": 2,
+    "title": "2026 精英计划暑期实习",
+    "category": "金融",
+    "jobType": "暑期实习",
+    "location": [
+      "上海",
+      "北京"
+    ],
+    "region": "大陆",
+    "description": "PwC 审计与咨询暑期实习。",
+    "requirements": "本科及以上",
+    "salary": "100-200/天",
+    "deadline": "2026-08-20",
+    "postedAt": null,
+    "applyUrl": "https://www.pwccn.com/zh/careers.html",
+    "detailUrl": null,
+    "tags": [
+      "四大"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 0.7,
+      "base": 0.5299849531249999
+    }
+  },
+  {
+    "id": "j1kflf9o",
+    "origin": "seed",
+    "company": "德勤",
+    "companyTier": 2,
+    "title": "2026 秋季校园招聘",
+    "category": "金融",
+    "jobType": "秋招",
+    "location": [
+      "北京",
+      "上海",
+      "广州",
+      "深圳"
+    ],
+    "region": "大陆",
+    "description": "Deloitte 审计、咨询、税务、风险全条线。",
+    "requirements": "应届毕业生",
+    "salary": null,
+    "deadline": "2026-09-15",
+    "postedAt": null,
+    "applyUrl": "https://www2.deloitte.com/cn/zh/careers.html",
+    "detailUrl": null,
+    "tags": [
+      "四大",
+      "校招"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 0.7,
+      "base": 0.5299849531249999
+    }
+  },
+  {
+    "id": "jz34ahz",
+    "origin": "seed",
+    "company": "毕马威",
+    "companyTier": 2,
+    "title": "2026 秋季校园招聘",
+    "category": "金融",
+    "jobType": "秋招",
+    "location": [
+      "北京",
+      "上海"
+    ],
+    "region": "大陆",
+    "description": "KPMG 审计、税务、咨询方向。",
+    "requirements": "应届毕业生",
+    "salary": null,
+    "deadline": "2026-09-10",
+    "postedAt": null,
+    "applyUrl": "https://kpmg.com/cn/zh/home/careers.html",
+    "detailUrl": null,
+    "tags": [
+      "四大",
+      "校招"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 0.7,
+      "base": 0.5299849531249999
+    }
+  },
+  {
+    "id": "jxhe367",
+    "origin": "seed",
+    "company": "华泰证券",
+    "companyTier": 2,
+    "title": "2026 秋招",
+    "category": "金融",
+    "jobType": "秋招",
+    "location": [
+      "南京",
+      "上海"
+    ],
+    "region": "大陆",
+    "description": "财富管理、投行、研究所多岗位。",
+    "requirements": "硕士及以上",
+    "salary": null,
+    "deadline": "2026-09-25",
+    "postedAt": null,
+    "applyUrl": "https://www.htsc.com.cn/",
+    "detailUrl": null,
+    "tags": [
+      "头部券商",
+      "校招"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 0.7,
+      "base": 0.5299849531249999
+    }
+  },
+  {
+    "id": "j1sjdd2",
+    "origin": "seed",
+    "company": "招商银行",
+    "companyTier": 2,
+    "title": "2026 秋招 · 管培方向",
+    "category": "金融",
+    "jobType": "秋招",
+    "location": [
+      "深圳"
+    ],
+    "region": "大陆",
+    "description": "总行管培、金融科技、风险管理多方向。",
+    "requirements": "应届毕业生",
+    "salary": null,
+    "deadline": "2026-09-30",
+    "postedAt": null,
+    "applyUrl": "http://career.cmbchina.com/",
+    "detailUrl": null,
+    "tags": [
+      "银行",
+      "管培"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 0.7,
+      "base": 0.5299849531249999
+    }
+  },
+  {
+    "id": "j1hjkxsc",
+    "origin": "seed",
+    "company": "SAP",
+    "companyTier": 2,
+    "title": "2026 暑期实习",
+    "category": "外企",
+    "jobType": "暑期实习",
+    "location": [
+      "上海"
+    ],
+    "region": "大陆",
+    "description": "企业软件研发与解决方案实习。",
+    "requirements": "本科及以上",
+    "salary": null,
+    "deadline": "2026-08-31",
+    "postedAt": null,
+    "applyUrl": "https://jobs.sap.com/",
+    "detailUrl": null,
+    "tags": [
+      "外企"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 0.7,
+      "base": 0.5299849531249999
+    }
+  },
+  {
+    "id": "jx6taue",
+    "origin": "seed",
+    "company": "埃森哲",
+    "companyTier": 2,
+    "title": "2026 秋季校园招聘",
+    "category": "外企",
+    "jobType": "秋招",
+    "location": [
+      "上海",
+      "北京",
+      "大连"
+    ],
+    "region": "大陆",
+    "description": "Accenture 咨询、技术与数字化方向。",
+    "requirements": "应届毕业生",
+    "salary": null,
+    "deadline": "2026-09-25",
+    "postedAt": null,
+    "applyUrl": "https://www.accenture.cn/cn-zh/careers",
+    "detailUrl": null,
+    "tags": [
+      "外企",
+      "咨询"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 0.7,
+      "base": 0.5299849531249999
+    }
+  },
+  {
+    "id": "j1ep1ry5",
+    "origin": "seed",
+    "company": "欧莱雅",
+    "companyTier": 2,
+    "title": "2026 暑期实习",
+    "category": "快消",
+    "jobType": "暑期实习",
+    "location": [
+      "上海",
+      "北京"
+    ],
+    "region": "大陆",
+    "description": "L'Oréal 市场、电商、研发暑期实习。",
+    "requirements": "本科及以上",
+    "salary": "300/天",
+    "deadline": "2026-08-31",
+    "postedAt": null,
+    "applyUrl": "https://www.loreal.com/en/careers/",
+    "detailUrl": null,
+    "tags": [
+      "外企",
+      "快消"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 0.7,
+      "base": 0.5299849531249999
+    }
+  },
+  {
+    "id": "j1ubnj88",
+    "origin": "seed",
+    "company": "玛氏",
+    "companyTier": 2,
+    "title": "2026 MLDP 管培生",
+    "category": "管培",
+    "jobType": "校招",
+    "location": [
+      "上海",
+      "广州"
+    ],
+    "region": "大陆",
+    "description": "Mars 领导力发展项目，箭牌/宠物/食品业务。",
+    "requirements": "应届毕业生",
+    "salary": null,
+    "deadline": "2026-09-30",
+    "postedAt": null,
+    "applyUrl": "https://www.mars.com/careers",
+    "detailUrl": null,
+    "tags": [
+      "外企",
+      "管培"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 0.7,
+      "base": 0.5299849531249999
+    }
+  },
+  {
+    "id": "j16n5mal",
+    "origin": "seed",
+    "company": "雀巢",
+    "companyTier": 2,
+    "title": "2026 秋季校园招聘",
+    "category": "快消",
+    "jobType": "秋招",
+    "location": [
+      "北京",
+      "上海"
+    ],
+    "region": "大陆",
+    "description": "Nestlé 市场、销售、供应链方向。",
+    "requirements": "应届毕业生",
+    "salary": null,
+    "deadline": "2026-09-15",
+    "postedAt": null,
+    "applyUrl": "https://www.nestle.com.cn/jobs",
+    "detailUrl": null,
+    "tags": [
+      "外企",
+      "快消"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 0.7,
+      "base": 0.5299849531249999
+    }
+  },
+  {
+    "id": "j1fwmess",
+    "origin": "seed",
+    "company": "百威",
+    "companyTier": 2,
+    "title": "2026 GMT 全球管培",
+    "category": "管培",
+    "jobType": "校招",
+    "location": [
+      "上海"
+    ],
+    "region": "大陆",
+    "description": "AB InBev 全球管培生项目，快速轮岗。",
+    "requirements": "应届毕业生",
+    "salary": null,
+    "deadline": "2026-09-20",
+    "postedAt": null,
+    "applyUrl": "https://www.budweiserapac.com/",
+    "detailUrl": null,
+    "tags": [
+      "外企",
+      "管培"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 0.7,
+      "base": 0.5299849531249999
+    }
+  },
+  {
+    "id": "j1nsn9ys",
+    "origin": "seed",
+    "company": "强生",
+    "companyTier": 2,
+    "title": "2026 校园招聘",
+    "category": "快消",
+    "jobType": "校招",
+    "location": [
+      "上海",
+      "西安"
+    ],
+    "region": "大陆",
+    "description": "J&J 医疗、制药、消费品方向。",
+    "requirements": "应届毕业生",
+    "salary": null,
+    "deadline": "2026-09-25",
+    "postedAt": null,
+    "applyUrl": "https://www.careers.jnj.com/",
+    "detailUrl": null,
+    "tags": [
+      "外企"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 0.7,
+      "base": 0.5299849531249999
+    }
+  },
+  {
+    "id": "j873ak0",
+    "origin": "seed",
+    "company": "蔚来",
+    "companyTier": 2,
+    "title": "2027 暑期实习",
+    "category": "实体",
+    "jobType": "暑期实习",
+    "location": [
+      "上海",
+      "合肥"
+    ],
+    "region": "大陆",
+    "description": "NIO 自动驾驶、三电、智能座舱实习。",
+    "requirements": "本科及以上",
+    "salary": "200-400/天",
+    "deadline": "2026-11-15",
+    "postedAt": null,
+    "applyUrl": "https://www.nio.com/careers",
+    "detailUrl": null,
+    "tags": [
+      "新能源"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 0.7,
+      "base": 0.5299849531249999
+    }
+  },
+  {
+    "id": "j1ddftt2",
+    "origin": "seed",
+    "company": "理想汽车",
+    "companyTier": 2,
+    "title": "2026 秋招",
+    "category": "实体",
+    "jobType": "秋招",
+    "location": [
+      "北京"
+    ],
+    "region": "大陆",
+    "description": "智能驾驶、智能空间、电动平台方向。",
+    "requirements": "应届毕业生",
+    "salary": null,
+    "deadline": "2026-09-18",
+    "postedAt": null,
+    "applyUrl": "https://li.auto/",
+    "detailUrl": null,
+    "tags": [
+      "新能源",
+      "校招"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 0.7,
+      "base": 0.5299849531249999
+    }
+  },
+  {
+    "id": "j1ac7fsk",
+    "origin": "seed",
+    "company": "中芯国际",
+    "companyTier": 2,
+    "title": "2026 秋招",
+    "category": "实体",
+    "jobType": "秋招",
+    "location": [
+      "上海",
+      "北京",
+      "深圳"
+    ],
+    "region": "大陆",
+    "description": "SMIC 半导体工艺、器件、设备方向。",
+    "requirements": "应届毕业生",
+    "salary": null,
+    "deadline": "2026-09-22",
+    "postedAt": null,
+    "applyUrl": "https://www.smics.com/",
+    "detailUrl": null,
+    "tags": [
+      "芯片",
+      "校招"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 0.7,
+      "base": 0.5299849531249999
+    }
+  },
+  {
+    "id": "j157fvj0",
+    "origin": "seed",
+    "company": "商汤科技",
+    "companyTier": 2,
+    "title": "2027 暑期实习",
+    "category": "实体",
+    "jobType": "暑期实习",
+    "location": [
+      "上海",
+      "深圳"
+    ],
+    "region": "大陆",
+    "description": "SenseTime 大模型、CV、智能驾驶研发实习。",
+    "requirements": "本科及以上",
+    "salary": "300-500/天",
+    "deadline": "2026-11-20",
+    "postedAt": null,
+    "applyUrl": "https://www.sensetime.com/cn/join-us",
+    "detailUrl": null,
+    "tags": [
+      "AI",
+      "科技"
+    ],
+    "firstSeen": "2026-05-29T05:54:44.402Z",
+    "lastSeen": "2026-05-29T05:56:54.407Z",
+    "scores": {
+      "urgency": 0.05,
+      "freshness": 0.99994984375,
+      "tier": 0.7,
+      "base": 0.5299849531249999
+    }
+  }
+]
